@@ -1,2 +1,2 @@
 # awesome-alternatives
-A list of my recommended software alternatives for security, privacy, and to support FOSS
+A list of software alternatives for enhanced security, privacy, and to support FOSS
